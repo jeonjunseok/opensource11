@@ -1,7 +1,7 @@
-# My Project
+# 오픈소스 프로젝트
 
 ## Description
-This project demonstrates how to create a GitHub repository and configure it.
+오픈소스 프로젝트 보고서 github 만들기.
 
 ### Features
 - Public access
@@ -12,7 +12,7 @@ This project demonstrates how to create a GitHub repository and configure it.
 
 *Italic Text Example*
 
-[Click here for more information][https://github.com/jeonjunseok]
+[오픈소스 사이트>][https://github.com/jeonjunseok]
 
 ```python
 print("Hello, World!")
