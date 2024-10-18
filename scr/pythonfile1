@@ -1,0 +1,7 @@
+# 두 숫자의 합을 계산하는 함수
+def add_numbers(a, b):
+    return a + b
+
+# 예시 실행
+result = add_numbers(3, 5)
+print("Result:", result)
