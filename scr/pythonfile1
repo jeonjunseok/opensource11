@@ -5,3 +5,6 @@ def add_numbers(a, b):
 # 예시 실행
 result = add_numbers(3, 5)
 print("Result:", result)
+
+print("Hello, world!")
+print("This is an update.")
